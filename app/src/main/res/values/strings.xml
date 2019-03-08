@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">a-puro-tango</string>
+    <string name="format_cash">Total del Evento</string>
+    <string name="base_cash">Base</string>
+    <string name="salon_cash">Cobro del Evento</string>
+    <string name="real_salon_cash">Gastos/Compras</string>
+    <string name="inventory">Inventario</string>
+    <string name="dif">Diferencia</string>
+    <string name="tips">Propinas</string>
+    <string name="michelade">Micheladas</string>
+    <string name="real_cash">Efectivo</string>
+    <string name="client_dif">Ganancia/Perdida del cliente</string>
+    <string name="Total">Efectivo a Tener</string>
+    <string name="calculate">Calcular</string>
 </resources>
